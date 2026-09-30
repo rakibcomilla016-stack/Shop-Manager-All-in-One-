@@ -1,0 +1,6 @@
+{
+  "name": "Shop Manager All in One",
+  "description": "Comprehensive all-in-one shop management app with invoices, stock ledger, sales & expense tracking, return register, customizable sign-up (Gmail, Phone, WhatsApp), multi-language, and multi-currency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
